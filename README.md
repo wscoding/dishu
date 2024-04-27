@@ -4,13 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+可在安卓 iOS win linux mac web等
+系统环境上运行此游戏
 
-A few resources to get you started if this is your first Flutter project:
+1. 开发前的准备 
+1) 图片 (个性化)  音乐 (敲击 声音)
+2) 编程工具 & sdk  成品演示
+3) 新建文件 编辑项目属性
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. 编写代码
+1) main 入口文件 & 布局
+2) 游戏页面 
+3) 游戏操作逻辑
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. 打包发布
+1) debug
+2) build
+3) 测试
