@@ -1,6 +1,6 @@
 # dishu
 
-A new Flutter project.
+哔哩哔哩 视频教程 : [A new Flutter project.](https://www.bilibili.com/video/BV1rb421h7zv/)
 
 ## Getting Started
 
