@@ -22,3 +22,8 @@ https://www.bilibili.com/video/BV1rb421h7zv/
 1) debug
 2) build
 3) 测试
+
+
+  提示  
+  因为做教程展示,项目还有一点点bug,尚未修复
+  项目仅供学习使用!!!
